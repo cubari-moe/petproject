@@ -8,10 +8,10 @@
     "1": {
       "title": "File 01",
       "volume": "1",
-      "last_updated": "1748467532",
+      "last_updated": "1748468189",
       "groups": {
         "en": {
-          "": "https://cubari.moe/read/imgchest/o24aqzljw7l/1/1/"
+          "": "/proxy/api/imgchest/chapter/o24aqzljw7l"
         }
       }
     }
