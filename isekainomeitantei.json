@@ -1,14 +1,19 @@
 {
+  "title": "Isekai no Meitantei",
+  "description": "A story about a dull detective mystery fanatic who, upon dying, gets reincarnated into a different world.",
+  "artist": "Sou Ichirou",
+  "author": "Katazoto Kamome",
+  "cover": "https://mangadex.org/covers/d3c582a7-9fe7-42f7-b4a2-c9b273e455ed/8ddee066-bec4-4381-a220-e827d0a19a5a.jpg",
   "chapters": {
     "1": {
       "title": "File 01",
       "volume": "1",
+      "last_updated": "1748467532",
       "groups": {
         "en": {
-          "TangPing Scanlations": "https://cubari.moe/read/imgchest/o24aqzljw7l/1/1/"
+          "": "https://cubari.moe/read/imgchest/o24aqzljw7l/1/1/"
         }
       }
     }
-  },
-  "title": "Isekai no Meitantei"
+  }
 }
