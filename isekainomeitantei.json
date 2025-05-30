@@ -12,6 +12,118 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/o24aqzljw7l"
       }
+    },
+    "2": {
+      "title": "File 02",
+      "volume": "1",
+      "last_updated": "1748626516",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqrgv2o42"
+      }
+    },
+    "3": {
+      "title": "File 03",
+      "volume": "1",
+      "last_updated": "1748626604",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqrgv2n42"
+      }
+    },
+    "4": {
+      "title": "File 04",
+      "volume": "1",
+      "last_updated": "1748626687",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg735krdj4r"
+      }
+    },
+    "5": {
+      "title": "File 05",
+      "volume": "1",
+      "last_updated": "1748626750",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4z86d5d4j"
+      }
+    },
+    "6": {
+      "title": "File 06",
+      "volume": "1",
+      "last_updated": "1748626834",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24a8x3227l"
+      }
+    },
+    "7": {
+      "title": "File 07",
+      "volume": "1",
+      "last_updated": "1748626926",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7oqz9ar4p"
+      }
+    },
+    "8": {
+      "title": "File 08",
+      "volume": "2",
+      "last_updated": "1748627030",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd6lx2l7k"
+      }
+    },
+    "9": {
+      "title": "File 09",
+      "volume": "2",
+      "last_updated": "1748627105",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wxzlngyx"
+      }
+    },
+    "10": {
+      "title": "File 10",
+      "volume": "2",
+      "last_updated": "1748627196",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4z86dpd4j"
+      }
+    },
+    "11": {
+      "title": "File 11",
+      "volume": "2",
+      "last_updated": "1748627285",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8465rpooyx"
+      }
+    },
+    "12": {
+      "title": "File 12",
+      "volume": "2",
+      "last_updated": "1748627366",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249pxvkm7n"
+      }
+    },
+    "13": {
+      "title": "File 13",
+      "volume": "2",
+      "last_updated": "1748627614",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy28zdo9yl"
+      }
+    },
+    "14": {
+      "title": "File 14",
+      "volume": "2",
+      "last_updated": "1748627702",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a8465rp6oyx"
+      }
+    },
+    "15": {
+      "title": "File 15",
+      "volume": "2",
+      "last_updated": "1748627765",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9249pxvlm7n"
+      }
     }
   }
 }
