@@ -6,11 +6,19 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "1": {
+      "title": "Isekai Mou Kaeritai",
+      "volume": "",
+      "last_updated": "1748576821",
+      "groups": {
+        "": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaW1vdWthZXJpdGFpLmpzb24="
+      }
+    },
+    "2": {
       "title": "Isekai no Meitantei",
       "volume": "",
       "last_updated": "1748470694",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pdgq2k7o"
+        "": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaW5vbWVpdGFudGVpLmpzb24="
       }
     }
   }
