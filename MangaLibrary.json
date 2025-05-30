@@ -1,6 +1,6 @@
 {
   "title": "Test",
-  "description": "",
+  "description": "The links don't directly lead to manga pages, due to how Cubari.moe appends the links with .\"/1/1\".\nSo you need to copy the link of the manga (right-cllick on the link and click \"Copy link\"). \nAnd then remove \"/1/1\" at the end.",
   "artist": "",
   "author": "",
   "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDwycVzCsWaZx5AaCTeqz6e8qLbt8UaQz7g&s",
