@@ -6,14 +6,22 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "5": {
+      "title": "Isekai no Meitantei",
+      "volume": "",
+      "last_updated": "1748627765",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pdgq2k7o"
+      }
+    },
+    "4": {
       "title": "Tanaka no Isekai Nariagari",
       "volume": "",
-      "last_updated": "1748610451",
+      "last_updated": "1748618632",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4g5v2ro7j"
       }
     },
-    "4": {
+    "3": {
       "title": "The 666th Grim Reaper",
       "volume": "",
       "last_updated": "1748609401",
@@ -21,7 +29,7 @@
         "": "/proxy/api/imgchest/chapter/qe4g5v2do7j"
       }
     },
-    "3": {
+    "2": {
       "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
       "volume": "",
       "last_updated": "1748607402",
@@ -29,20 +37,12 @@
         "": "/proxy/api/imgchest/chapter/vj4jgovn348"
       }
     },
-    "2": {
+    "1": {
       "title": "Isekai Mou Kaeritai",
       "volume": "",
       "last_updated": "1748576821",
       "groups": {
         "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
-      }
-    },
-    "1": {
-      "title": "Isekai no Meitantei",
-      "volume": "",
-      "last_updated": "1748470694",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pdgq2k7o"
       }
     }
   }
