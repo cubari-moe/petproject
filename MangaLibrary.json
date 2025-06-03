@@ -6,6 +6,14 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "9": {
+      "title": "Isekai Mou Kaeritai",
+      "volume": "",
+      "last_updated": "1748982213",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
+      }
+    },
+    "8": {
       "title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
       "volume": "",
       "last_updated": "1748728485",
@@ -13,7 +21,7 @@
         "": "/proxy/api/imgchest/chapter/vj4jgojbx48"
       }
     },
-    "8": {
+    "7": {
       "title": "Isekai Cheat Breakers",
       "volume": "",
       "last_updated": "1748699365",
@@ -21,7 +29,7 @@
         "": "/proxy/api/imgchest/chapter/na7kvx5bb48"
       }
     },
-    "7": {
+    "6": {
       "title": "Isekai de Seijo ni natta Watashi, Genjitsu Sekai demo Seijo Cheat de Kanzen Shouri!",
       "volume": "",
       "last_updated": "1748696828",
@@ -29,7 +37,7 @@
         "": "/proxy/api/imgchest/chapter/n87wxzqjzyx"
       }
     },
-    "6": {
+    "5": {
       "title": "Shiganai Tensei Reijou wa Heion ni Kurashitai",
       "volume": "",
       "last_updated": "1748692291",
@@ -37,7 +45,7 @@
         "": "/proxy/api/imgchest/chapter/lqyegjnjz7d"
       }
     },
-    "5": {
+    "4": {
       "title": "Isekai no Meitantei",
       "volume": "",
       "last_updated": "1748627765",
@@ -45,7 +53,7 @@
         "": "/proxy/api/imgchest/chapter/dl7pdgq2k7o"
       }
     },
-    "4": {
+    "3": {
       "title": "Tanaka no Isekai Nariagari",
       "volume": "",
       "last_updated": "1748618632",
@@ -53,7 +61,7 @@
         "": "/proxy/api/imgchest/chapter/qe4g5v2ro7j"
       }
     },
-    "3": {
+    "2": {
       "title": "The 666th Grim Reaper",
       "volume": "",
       "last_updated": "1748609401",
@@ -61,20 +69,12 @@
         "": "/proxy/api/imgchest/chapter/qe4g5v2do7j"
       }
     },
-    "2": {
+    "1": {
       "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
       "volume": "",
       "last_updated": "1748607402",
       "groups": {
         "": "/proxy/api/imgchest/chapter/vj4jgovn348"
-      }
-    },
-    "1": {
-      "title": "Isekai Mou Kaeritai",
-      "volume": "",
-      "last_updated": "1748576821",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     }
   }
