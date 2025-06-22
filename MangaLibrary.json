@@ -5,7 +5,23 @@
   "author": "",
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
+    "13": {
+      "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
+      "volume": "",
+      "last_updated": "1750600770",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd66la67k"
+      }
+    },
     "12": {
+      "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
+      "volume": "",
+      "last_updated": "1749385222",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jgovn348"
+      }
+    },
+    "11": {
       "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
       "volume": "",
       "last_updated": "1749040147",
@@ -13,7 +29,7 @@
         "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
       }
     },
-    "11": {
+    "10": {
       "title": "Visual Breakers",
       "volume": "",
       "last_updated": "1749038867",
@@ -21,7 +37,7 @@
         "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
       }
     },
-    "10": {
+    "9": {
       "title": "Isekai Tensei Kabushikigaisha: Anshin Anzen na Tensei Life, Teikyou Shimasu",
       "volume": "",
       "last_updated": "1749038347",
@@ -29,7 +45,7 @@
         "": "/proxy/api/imgchest/chapter/dl7pdjwek7o"
       }
     },
-    "9": {
+    "8": {
       "title": "Isekai Mou Kaeritai",
       "volume": "",
       "last_updated": "1748982213",
@@ -37,7 +53,7 @@
         "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
-    "8": {
+    "7": {
       "title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
       "volume": "",
       "last_updated": "1748728485",
@@ -45,7 +61,7 @@
         "": "/proxy/api/imgchest/chapter/vj4jgojbx48"
       }
     },
-    "7": {
+    "6": {
       "title": "Isekai Cheat Breakers",
       "volume": "",
       "last_updated": "1748699365",
@@ -53,7 +69,7 @@
         "": "/proxy/api/imgchest/chapter/na7kvx5bb48"
       }
     },
-    "6": {
+    "5": {
       "title": "Isekai de Seijo ni natta Watashi, Genjitsu Sekai demo Seijo Cheat de Kanzen Shouri!",
       "volume": "",
       "last_updated": "1748696828",
@@ -61,7 +77,7 @@
         "": "/proxy/api/imgchest/chapter/n87wxzqjzyx"
       }
     },
-    "5": {
+    "4": {
       "title": "Shiganai Tensei Reijou wa Heion ni Kurashitai",
       "volume": "",
       "last_updated": "1748692291",
@@ -69,7 +85,7 @@
         "": "/proxy/api/imgchest/chapter/lqyegjnjz7d"
       }
     },
-    "4": {
+    "3": {
       "title": "Isekai no Meitantei",
       "volume": "",
       "last_updated": "1748627765",
@@ -77,7 +93,7 @@
         "": "/proxy/api/imgchest/chapter/dl7pdgq2k7o"
       }
     },
-    "3": {
+    "2": {
       "title": "Tanaka no Isekai Nariagari",
       "volume": "",
       "last_updated": "1748618632",
@@ -85,20 +101,12 @@
         "": "/proxy/api/imgchest/chapter/qe4g5v2ro7j"
       }
     },
-    "2": {
+    "1": {
       "title": "The 666th Grim Reaper",
       "volume": "",
       "last_updated": "1748609401",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4g5v2do7j"
-      }
-    },
-    "1": {
-      "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
-      "volume": "",
-      "last_updated": "1748607402",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jgovn348"
       }
     }
   }
