@@ -6,6 +6,14 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "15": {
+      "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
+      "volume": "",
+      "last_updated": "1751817440",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jgovn348"
+      }
+    },
+    "14": {
       "title": "Isekai Mou Kaeritai",
       "volume": "",
       "last_updated": "1751116298",
@@ -13,7 +21,7 @@
         "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
-    "14": {
+    "13": {
       "title": "Isekai Tensei Kabushikigaisha: Anshin Anzen na Tensei Life, Teikyou Shimasu",
       "volume": "",
       "last_updated": "1751116198",
@@ -21,7 +29,7 @@
         "": "/proxy/api/imgchest/chapter/dl7pdjwek7o"
       }
     },
-    "13": {
+    "12": {
       "title": "Visual Breakers",
       "volume": "",
       "last_updated": "1751116117",
@@ -29,7 +37,7 @@
         "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
       }
     },
-    "12": {
+    "11": {
       "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
       "volume": "",
       "last_updated": "1751115976",
@@ -37,7 +45,7 @@
         "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
       }
     },
-    "11": {
+    "10": {
       "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
       "volume": "",
       "last_updated": "1751115817",
@@ -45,7 +53,7 @@
         "": "/proxy/api/imgchest/chapter/9ryd66la67k"
       }
     },
-    "10": {
+    "9": {
       "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
       "volume": "",
       "last_updated": "1751115459",
@@ -53,20 +61,12 @@
         "": "/proxy/api/imgchest/chapter/ne7bkkgnv75"
       }
     },
-    "9": {
+    "8": {
       "title": "Aku no Kadou wo Ikimashou",
       "volume": "",
       "last_updated": "1751115329",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
-      }
-    },
-    "8": {
-      "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
-      "volume": "",
-      "last_updated": "1751114207",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jgovn348"
       }
     },
     "7": {
