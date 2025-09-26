@@ -6,6 +6,54 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "16": {
+      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
+      "volume": "",
+      "last_updated": "1758902960",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
+      }
+    },
+    "15": {
+      "title": "Aku no Kadou wo Ikimashou",
+      "volume": "",
+      "last_updated": "1758902767",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
+      }
+    },
+    "14": {
+      "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
+      "volume": "",
+      "last_updated": "1758902595",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
+      }
+    },
+    "13": {
+      "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
+      "volume": "",
+      "last_updated": "1758902457",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd66la67k"
+      }
+    },
+    "12": {
+      "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
+      "volume": "",
+      "last_updated": "1758902185",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bkkgnv75"
+      }
+    },
+    "11": {
+      "title": "Visual Breakers",
+      "volume": "",
+      "last_updated": "1758901212",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
+      }
+    },
+    "10": {
       "title": "Isekai Mou Kaeritai",
       "volume": "",
       "last_updated": "1757258269",
@@ -13,60 +61,12 @@
         "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
-    "15": {
+    "9": {
       "title": "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~ Ore Dake ga Skill no Suuchi o Katte ni Sousa ~",
       "volume": "",
       "last_updated": "1756576498",
       "groups": {
         "": "/proxy/api/imgchest/chapter/vj4jgovn348"
-      }
-    },
-    "14": {
-      "title": "Visual Breakers",
-      "volume": "",
-      "last_updated": "1756460233",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
-      }
-    },
-    "13": {
-      "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
-      "volume": "",
-      "last_updated": "1756459902",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7bkkgnv75"
-      }
-    },
-    "12": {
-      "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
-      "volume": "",
-      "last_updated": "1756459768",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/9ryd66la67k"
-      }
-    },
-    "11": {
-      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
-      "volume": "",
-      "last_updated": "1756459605",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
-      }
-    },
-    "10": {
-      "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
-      "volume": "",
-      "last_updated": "1756459377",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
-      }
-    },
-    "9": {
-      "title": "Aku no Kadou wo Ikimashou",
-      "volume": "",
-      "last_updated": "1756459122",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
       }
     },
     "8": {
