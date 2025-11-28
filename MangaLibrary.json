@@ -6,59 +6,59 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "16": {
-      "title": "Aku no Kadou wo Ikimashou",
+      "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
       "volume": "",
-      "last_updated": "1761996593",
+      "last_updated": "1764348404",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
+        "": "/proxy/api/imgchest/chapter/ne7bkkgnv75"
       }
     },
     "15": {
-      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
-      "volume": "",
-      "last_updated": "1761996422",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
-      }
-    },
-    "14": {
-      "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
-      "volume": "",
-      "last_updated": "1761996307",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
-      }
-    },
-    "13": {
       "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
       "volume": "",
-      "last_updated": "1761996202",
+      "last_updated": "1764347815",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9ryd66la67k"
       }
     },
-    "12": {
-      "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
+    "14": {
+      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
       "volume": "",
-      "last_updated": "1761996067",
+      "last_updated": "1764347702",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7bkkgnv75"
+        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
+      }
+    },
+    "13": {
+      "title": "Isekai Mou Kaeritai",
+      "volume": "",
+      "last_updated": "1764347503",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
+      }
+    },
+    "12": {
+      "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
+      "volume": "",
+      "last_updated": "1764347396",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
       }
     },
     "11": {
       "title": "Visual Breakers",
       "volume": "",
-      "last_updated": "1761995859",
+      "last_updated": "1764347185",
       "groups": {
         "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
       }
     },
     "10": {
-      "title": "Isekai Mou Kaeritai",
+      "title": "Aku no Kadou wo Ikimashou",
       "volume": "",
-      "last_updated": "1761995717",
+      "last_updated": "1764346980",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
+        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
       }
     },
     "9": {
