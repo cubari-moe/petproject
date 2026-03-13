@@ -240,8 +240,10 @@
     "30": {
       "title": "Emergency Maintenance",
       "volume": "2",
-      "last_updated": "1773401322",
-      "groups": {}
+      "last_updated": "1773401377",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7m6vxlq4d"
+      }
     }
   }
 }
