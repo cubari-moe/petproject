@@ -6,6 +6,14 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "19": {
+      "title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
+      "volume": "",
+      "last_updated": "1776633198",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wj3xxq4x"
+      }
+    },
+    "18": {
       "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
       "volume": "",
       "last_updated": "1775239652",
@@ -13,7 +21,7 @@
         "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
       }
     },
-    "18": {
+    "17": {
       "title": "Isekai Mou Kaeritai",
       "volume": "",
       "last_updated": "1775239542",
@@ -21,7 +29,7 @@
         "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
-    "17": {
+    "16": {
       "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
       "volume": "",
       "last_updated": "1775239438",
@@ -29,7 +37,7 @@
         "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
       }
     },
-    "16": {
+    "15": {
       "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
       "volume": "",
       "last_updated": "1775239340",
@@ -37,7 +45,7 @@
         "": "/proxy/api/imgchest/chapter/9ryd66la67k"
       }
     },
-    "15": {
+    "14": {
       "title": "Visual Breakers",
       "volume": "",
       "last_updated": "1775239143",
@@ -45,7 +53,7 @@
         "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
       }
     },
-    "14": {
+    "13": {
       "title": "Aku no Kadou wo Ikimashou",
       "volume": "",
       "last_updated": "1775239039",
@@ -53,20 +61,12 @@
         "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
       }
     },
-    "13": {
+    "12": {
       "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
       "volume": "",
       "last_updated": "1774433812",
       "groups": {
         "": "/proxy/api/imgchest/chapter/agyvl36vz78"
-      }
-    },
-    "12": {
-      "title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
-      "volume": "",
-      "last_updated": "1774229219",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/n87wj3xxq4x"
       }
     },
     "11": {
