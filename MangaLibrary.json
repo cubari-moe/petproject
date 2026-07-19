@@ -6,43 +6,43 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "19": {
+      "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
+      "volume": "",
+      "last_updated": "1784486572",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvl36vz78"
+      }
+    },
+    "18": {
+      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
+      "volume": "",
+      "last_updated": "1784486499",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
+      }
+    },
+    "17": {
+      "title": "Isekai Mou Kaeritai",
+      "volume": "",
+      "last_updated": "1784486408",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
+      }
+    },
+    "16": {
+      "title": "Visual Breakers",
+      "volume": "",
+      "last_updated": "1784486311",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
+      }
+    },
+    "15": {
       "title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
       "volume": "",
       "last_updated": "1780510226",
       "groups": {
         "": "/proxy/api/imgchest/chapter/n87wj3xxq4x"
-      }
-    },
-    "18": {
-      "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
-      "volume": "",
-      "last_updated": "1779314742",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/agyvl36vz78"
-      }
-    },
-    "17": {
-      "title": "Visual Breakers",
-      "volume": "",
-      "last_updated": "1779314622",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
-      }
-    },
-    "16": {
-      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
-      "volume": "",
-      "last_updated": "1779314501",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
-      }
-    },
-    "15": {
-      "title": "Isekai Mou Kaeritai",
-      "volume": "",
-      "last_updated": "1779314373",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
     "14": {
