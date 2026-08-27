@@ -6,17 +6,17 @@
   "cover": "https://dontyoushushme.com/wp-content/uploads/2023/02/manga1.jpg",
   "chapters": {
     "20": {
-      "title": "Newton wo Daita Onna",
+      "title": "Isekai Mou Kaeritai",
       "volume": "",
-      "last_updated": "1785107490",
+      "last_updated": "1787789211",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g9ogloyj"
+        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
       }
     },
     "19": {
       "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
       "volume": "",
-      "last_updated": "1784486572",
+      "last_updated": "1787789116",
       "groups": {
         "": "/proxy/api/imgchest/chapter/agyvl36vz78"
       }
@@ -24,28 +24,36 @@
     "18": {
       "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
       "volume": "",
-      "last_updated": "1784486499",
+      "last_updated": "1787789017",
       "groups": {
         "": "/proxy/api/imgchest/chapter/dl7pd32x87o"
       }
     },
     "17": {
-      "title": "Isekai Mou Kaeritai",
+      "title": "Newton wo Daita Onna",
       "volume": "",
-      "last_updated": "1784486408",
+      "last_updated": "1787788759",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/na7kvxwzk48"
+        "": "/proxy/api/imgchest/chapter/qe4g9ogloyj"
       }
     },
     "16": {
       "title": "Visual Breakers",
       "volume": "",
-      "last_updated": "1784486311",
+      "last_updated": "1787788593",
       "groups": {
         "": "/proxy/api/imgchest/chapter/5xy28pma8yl"
       }
     },
     "15": {
+      "title": "Aku no Kadou wo Ikimashou",
+      "volume": "",
+      "last_updated": "1787788367",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
+      }
+    },
+    "14": {
       "title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
       "volume": "",
       "last_updated": "1780510226",
@@ -53,7 +61,7 @@
         "": "/proxy/api/imgchest/chapter/n87wj3xxq4x"
       }
     },
-    "14": {
+    "13": {
       "title": "Ietsukuri Skill de Isekai wo Ikinobiro",
       "volume": "",
       "last_updated": "1777154622",
@@ -61,20 +69,12 @@
         "": "/proxy/api/imgchest/chapter/vj4jgdjke48"
       }
     },
-    "13": {
+    "12": {
       "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
       "volume": "",
       "last_updated": "1775239340",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9ryd66la67k"
-      }
-    },
-    "12": {
-      "title": "Aku no Kadou wo Ikimashou",
-      "volume": "",
-      "last_updated": "1775239039",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/qe4g55dlq7j"
       }
     },
     "11": {
